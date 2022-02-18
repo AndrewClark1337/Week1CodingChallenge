@@ -1,0 +1,4 @@
+The main difference between declarative and programmatic customizations is that declarative customizations require little or no coding, as most of the
+functionality comes from drag-and-drop "builder" applications where users create simple functionality by using their mouse to drag components on a template 
+without writing much code. On the other hand, programmatic customizations are created by the user manually programming the functionality. While programmatic customizations can take a long time to code and test and can have bugs that can ruin your org, they can perform far more complex actions than declarative 
+customizations ever could.
